@@ -3,4 +3,4 @@
 
 ## Functional Programming done RIGHT! _
 
-- A parallel drawn between Javascript and Haskell
+- A parallel between Javascript and Haskell
