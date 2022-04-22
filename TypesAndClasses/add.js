@@ -8,6 +8,8 @@
 
 const add = x => y => z => x + y + z;
 
+/****************************----*/
+
 /**
  * Imperative style used to produce
  * functional style API - infinite currying
